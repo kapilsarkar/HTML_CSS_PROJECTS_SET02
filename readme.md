@@ -30,7 +30,7 @@ TOOLS USED : `HTML` ,`CSS`
 
 **OUTPUT :**
 
-![IMG1](FSJS%202.0%20Project%2003/output.png)
+![IMG1](FSJS%202.0%20Project%2003/Output.png)
 
 
 

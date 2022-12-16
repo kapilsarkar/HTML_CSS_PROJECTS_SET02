@@ -6,7 +6,7 @@ TOOLS USED : `HTML` ,`CSS`
 
 **OUTPUT :**
 
-![IMG1](output.png)
+![IMG1](Output.png)
 
 
 
